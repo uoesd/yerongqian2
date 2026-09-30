@@ -1,5 +1,5 @@
 # this is a title
-## this is a  _mistake_.
+## this is now fixed.
 
 1. qwe
 2. qwe
